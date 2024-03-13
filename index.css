@@ -11,7 +11,7 @@
     line-height: 140%;
     text-rendering: optimizeLegibility;
     background: linear-gradient(purple, var(--color));
-    background: linear-gradient(purple, var(--color));--color: #6C5CE7;
+    background: linear-gradient(purple, #6C5CE7);
 }
   } */
 
